@@ -1,0 +1,22 @@
+{
+  "name": "react-profile",
+  "version": "1.0.0",
+  "description": "next.js resume",
+  "author": "Shyam Gupta",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "fontfaceobserver": "^2.1.0",
+    "next": "^10.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-ga": "^2.6.0"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^4.3.2"
+  }
+}
