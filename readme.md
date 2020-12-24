@@ -1,5 +1,6 @@
 # Resume with NextJS
 Resume website with NextJS
+Modify the "data.js" file in ./static directory with your personal informations
 ## Demo on Netlify
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4b0c9bf5-0b9c-4d2b-a04f-9ea2e5b14a93/deploy-status)](https://app.netlify.com/sites/check-my-resume/deploys)
 
